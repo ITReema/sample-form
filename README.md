@@ -1,5 +1,11 @@
 # Sample Form
 semple form in jupiter
+
+## Installation
+JupyterLab can be installed using ```conda``` or ```pip```. For more detailed instructions, consult the [installation guide](http://jupyterlab.readthedocs.io/en/stable/getting_started/installation.html)
+
+## Code 
+
 ```
 from ipywidgets import *
 from IPython.display import display
