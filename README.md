@@ -1,4 +1,4 @@
-# sample-form
+# Sample Form
 semple form in jupiter
 ```
 from ipywidgets import *
