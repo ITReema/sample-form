@@ -40,3 +40,8 @@ display(color)
 display(food)
 
 ```
+
+<p align="center">
+  <img width="500" height="200" src="https://user-images.githubusercontent.com/27751735/61357438-fb7c0500-a880-11e9-9798-5027b6e27711.png">
+</p>
+
